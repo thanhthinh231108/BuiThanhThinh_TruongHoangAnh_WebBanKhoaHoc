@@ -1,0 +1,261 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.page_1{
+
+}
+
+.with{
+    width: 260px;
+}
+
+.color_ChuMo{
+    color: #000000aa;
+}
+.Menu{
+    padding-top: 10px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-bottom: 1px solid #0000001a;
+
+}
+
+.Menu_left{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 520px;
+}
+.pading_top_10px{
+    padding-top: 10px;
+}
+.Menu_left a{
+    text-decoration: none;
+    color: #000000aa;
+}
+.ip_search input{
+    width: 180px;
+    height: 24px;
+    background-color: #00000008;
+    border: 1px solid #00000008;
+    border-radius: 2px;
+    
+}
+
+.Menu_right{
+    width: 320px;
+    display: flex;
+    justify-content: space-between;
+}
+/* Recommen */
+.pading_LR_140px{
+    padding: 0px 140px;
+}
+
+.Recommen{
+    margin-top: 52px;
+}
+
+.Reconmmen_top{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+
+}
+.Reconmmen_top a{
+    text-decoration: none;
+    color: rgb(0, 213, 255);
+}
+
+.Recommen_bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom_content{
+    width: 261px;
+    border: 1px solid #00000012;
+    border-radius: 4px;
+}
+.pading_LR_12px{
+    padding: 20px 12px;
+}
+.pading_Top_20px{
+    padding-top: 20px;
+}
+
+.bottom_content_center{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom_content_last{
+    display: flex;
+    justify-content: space-between;
+}
+.dola{
+    font-size: 18px;
+
+}
+
+.Off_20{
+    font-size: 11px;
+    text-align: center;
+    padding-top: 3px;
+    width: 52px;
+    color: white;
+    background-color: rgba(133, 23, 188, 0.911);
+    border-radius: 8px;
+}
+.Beginer{
+    font-size: 11px;
+    text-align: center;
+    width: 80px;
+    background-color: rgba(212, 14, 14, 0.805);
+    color: white;
+    border-radius: 8px;
+    padding-top: 3px;
+}
+
+/* digital */
+
+.digital{
+    margin-top: 52px;
+    display: flex;
+
+}
+.digital_left{
+    width: 591px;
+    background-color: rgba(250, 235, 215, 0.49);
+    height: 387px;
+}
+.digital_right_img{
+    width: 591px;
+}
+
+.digital_left_conten{
+    padding-left: 40px;
+    padding-top: 100px;
+}
+.digital_left_conten h2{
+    font-size: 30px;
+}
+
+
+.digital_left_p{
+    line-height: 1.4;
+    color: #000000aa;
+}
+
+.digital_btn{
+    width: 120px;
+    height: 32px;
+    background-color: rgb(0, 255, 221);
+    border: 1px solid rgb(0, 255, 221);
+    border-radius: 4px;
+    color: white;
+}
+
+/* popular */
+.popular{
+    padding-top: 80px;
+}
+.Beginer_2{
+    font-size: 11px;
+    text-align: center;
+    width: 64px;
+    background-color: rgb(0, 255, 221);
+    color: white;
+    border-radius: 8px;
+    padding-top: 3px;
+}
+
+/* Trending */
+
+.Trending{
+    padding-bottom: 52px;
+}
+
+/* Footer */
+.margin_LR_140px{
+    margin: 0px 140px;
+    
+}
+
+.Footer{
+    border-top: 1px solid #00000008;
+    background-color: #00000008;
+}
+
+.Footer_conten{
+    padding-top: 60px;
+    display: flex;   
+    justify-content: space-between;
+    width: 1000px; 
+    height: 260px;
+    
+    
+}
+
+.logo_footer{
+    width: 128px;
+}
+
+.Footer_inp{
+    width: 200px;
+    height: 28px;
+    border-radius: 4px;
+    border: 1px solid #000000aa;
+}
+
+.Footer_btn{
+    width: 100px;
+    height: 28px;
+    background-color: rgb(0, 255, 221);
+    border: 1px solid rgb(0, 255, 221);
+    border-radius: 4px;
+}
+
+.font_size_12px{
+    font-size: 12px;
+}
+
+.pading_Top_10px{
+    padding-top: 10px;
+}
+.font_weight{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.font_size_24px{
+    font-size: 24px;
+    font-weight: 600;
+    color: rgb(0, 255, 221);
+}
+
+.Footer_bottom{
+    border-top:2px solid #0000001a ;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.Footer_4img{
+    display: flex;
+    justify-content: space-between;
+    width: 132px;
+}
+
+.English{
+    width: 100px;
+    height: 28px;
+}
