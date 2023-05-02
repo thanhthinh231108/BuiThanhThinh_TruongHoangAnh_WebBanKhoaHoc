@@ -198,6 +198,7 @@
     width: 1462px;
     border-top: 1px solid #00000008;
     background-color: #00000008;
+    padding-bottom: 12px;
 }
 
 .Footer_conten{
@@ -387,4 +388,139 @@
 
 .pading_L_20px{
     padding-left: 20px;
+}
+
+
+/* Study */
+
+.study_a{
+    text-decoration: none;
+    
+}
+.color_black{
+    color: #000000cc;
+}
+h1{
+    font-weight: 700;
+}
+
+.study_rating{
+    width: 1182px;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.study_rating_left{
+    width: 240px;
+    display: flex;
+    justify-content: space-between;
+}
+.border_right{
+    width: 90px;
+    height: 20px;
+    border-right: 1px solid #000000aa;
+}
+
+.study_rating_right{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
+.dis_F_SPB{
+    display: flex;
+    justify-content: space-between;
+}
+
+.study_audito{
+    width: 1182px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.study_audio_p{
+    display: flex;
+    justify-content: space-between;
+    width: 340px;
+    height: 64px;
+    font-family: Poppins;
+    line-height: 22px;
+    color: #9095A0FF;
+    font-size: 20px;
+}
+.ss{
+    display: flex;
+    justify-content: space-between;
+}
+
+.study_4{
+    width: 1182px;
+    margin-top: 40px;
+    height: 40px;
+    border-bottom: 1px solid #00000012;
+}
+
+.study_conten{
+    display: flex;
+    justify-content: space-between;
+    width: 1182px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.study_conten_container{
+position: absolute; 
+  top: 769px; 
+  left: 974px; 
+  width: 336px; 
+  height: 612px; 
+  background: #FEF6F1FF; /* secondary-100 */
+  border-radius: 4px; /* border-m */
+}
+.study_conten_container img{
+    position: absolute; 
+    top: 20px; 
+    left: 20px; 
+    width: 280px; 
+    height: 408px; 
+    border-radius: 4px; /* border-m */
+}
+
+.search_study{
+    width: 812px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    
+}
+.search_study_img{
+    width: 768px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #F3F4F6FF;
+
+}
+
+.search_study_img input{
+    width: 586px; 
+    height: 36px; 
+    padding-left: 12px; 
+    padding-right: 34px; 
+    font-family: Montserrat;
+    font-size: 14px; 
+    background: #F3F4F6FF; 
+    border-radius: 18px; 
+    border-width: 0px; 
+    outline: none; 
+}
+
+.search_study_comment{
+    width: 812px;
+    padding-top: 16px;
+}
+
+.p_study_conten{
+    width: 812px;
+    padding: 0px 40px;
 }
